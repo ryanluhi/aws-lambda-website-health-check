@@ -64,7 +64,7 @@ Navigated to CloudWatch → Alarms → Created a new alarm on the Lambda **Error
 - Threshold: **Static** → Greater than **0**
 
 ![Step 6: Create Alarm](create-alarm.png)
-![Step 6: Create Alarm](alarm-config,png)
+![Step 6: Alarm Config](alarm-config.png)
 ![Step 7: Select Errors Metric](select-metric-errors.png)
 ![Step 8: Alarm Configuration (Metric Preview)](alarm-config.png)
 ![Step 9: Alarm Conditions (> 0)](alarm-conditions.png)
