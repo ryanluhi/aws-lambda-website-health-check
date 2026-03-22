@@ -88,8 +88,6 @@ This forces the Lambda to error on the next run → CloudWatch metric increments
 
 **Success banners confirm the function updated and the EventBridge trigger is active.**
 
-### 15. Final Architecture Diagram
-Visual overview of the complete flow (included above).
 
 ## How It Works (Summary)
 1. EventBridge fires every 5 minutes.
