@@ -98,7 +98,8 @@ This forces the Lambda to error on the next run → CloudWatch metric increments
 ## Demo & Testing
 - Normal state: `expected = cloudonaut` → Alarm stays **OK**.
 - Failure state: `expected = FAILURE` → Alarm goes to **ALARM** within minutes.
-- ![demo and testing](test.png) Subscribe to the SNS topic to receive real email alerts.
+ ![demo and testing](test.png)
+-  Subscribe to the SNS topic to receive real email alerts.
 
 
 
