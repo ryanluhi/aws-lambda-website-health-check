@@ -22,7 +22,7 @@ The EventBridge rule triggers the Lambda every 5 minutes → Lambda fetches the 
 ## Prerequisites
 - AWS account with IAM permissions (Lambda, EventBridge, CloudWatch, SNS)
 - Target website URL and a unique string that appears on the page
-- (Optional) SNS subscription for email notifications
+-  SNS subscription for email notifications
 
 ## Step-by-Step Implementation
 
