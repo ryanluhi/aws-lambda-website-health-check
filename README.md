@@ -100,16 +100,9 @@ Visual overview of the complete flow (included above).
 ## Demo & Testing
 - Normal state: `expected = cloudonaut` → Alarm stays **OK**.
 - Failure state: `expected = FAILURE` → Alarm goes to **ALARM** within minutes.
-- (Not shown in screenshots) Subscribe to the SNS topic to receive real email alerts.
+- ![demo and testing](test.png) Subscribe to the SNS topic to receive real email alerts.
 
-## Future Improvements
-- Add multi-URL support
-- Use AWS Secrets Manager instead of env vars
-- Add custom metrics (response time, HTTP status)
-- Integrate with PagerDuty/Slack
 
----
 
 **Project complete!** This is a production-ready pattern for website uptime monitoring using only serverless services (no servers to manage).
 
-Made with ❤️ by a junior cloud engineer. Feel free to fork, improve, or use as a template!
